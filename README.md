@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a program that allows a user to put data files which are formatted in a specific way into a folder and then convert them into a CSV file. The program will then output the CSV file into the output folder.
+This is a simple program that allows a user to put data files which are formatted in a specific way into a folder and then convert them into a CSV file. The program will then output the CSV file into the output folder.
 
 ## How to Use
 
